@@ -4,4 +4,4 @@ class Definition:
         self.term = term
 
     def get(self):
-        pass
+        
